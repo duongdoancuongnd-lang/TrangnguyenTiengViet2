@@ -1,0 +1,6 @@
+{
+  "name": "Ôn Trạng Nguyên Tiếng Việt Lớp 2",
+  "description": "Ứng dụng luyện thi và ôn tập Trạng Nguyên Tiếng Việt Lớp 2 chuẩn GDPT 2018 bộ sách Kết Nối Tri Thức Với Cuộc Sống, gồm 35 vòng thi chuẩn hóa với thời gian 30 phút.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
